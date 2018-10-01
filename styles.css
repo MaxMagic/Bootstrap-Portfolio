@@ -15,8 +15,8 @@
 }
 
 .foot_buffer {
-    position: absolute;
-    bottom: 0;
+    position: fixed;
+    bottom: 0px;
     background-color: #666666;
     border-top: #4aaaa5;
     border-top-style: solid;
@@ -26,4 +26,32 @@
     color: #cccccc;
     width: 100%;
     height: 5vh;
+}
+
+a:link {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #cccccc;
+}
+
+a:hover {
+    color: #4aaaa5;
+}
+
+a:active {
+    color: #cccccc;
+}
+
+.link_style {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+.align_box {
+    padding-left: 0;
 }
