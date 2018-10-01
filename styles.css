@@ -17,6 +17,7 @@
 .foot_buffer {
     position: fixed;
     bottom: 0px;
+    left: 0px;
     background-color: #666666;
     border-top: #4aaaa5;
     border-top-style: solid;
@@ -52,6 +53,5 @@ a:active {
     border-color: #cccccc;
 }
 
-.align_box {
-    padding-left: 0;
-}
+
+
