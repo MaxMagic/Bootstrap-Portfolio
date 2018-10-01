@@ -30,7 +30,7 @@
 }
 
 body {
-    background-image: url("../images/gravel.png");
+    background-image: url("gravel.png");
 }
 
 a:link {
@@ -62,5 +62,10 @@ a:active {
     font-family: 'Georgia', Times, "Times New Roman", serif;
     font-weight: bold;
     font-size: 3vh;
+}
+
+.f_row {
+    background-color: white;
+    border: solid 2px #cccccc;
 }
 
