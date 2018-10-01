@@ -1,0 +1,15 @@
+.name_box {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    font-weight: bold;
+    color: white;
+}
+
+.fix_pad {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.top_buffer {
+    margin-top: 50px;
+}
