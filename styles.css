@@ -8,10 +8,11 @@
 .fix_pad {
     padding-top: 0;
     padding-bottom: 0;
+    height: 10vh;
 }
 
 .top_buffer {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .foot_buffer {
@@ -69,3 +70,12 @@ a:active {
     border: solid 2px #cccccc;
 }
 
+.fix_name {
+    position: absolute;
+    top: 3.5vh;
+    font-size: 3vh;
+}
+
+.c_div {
+    margin: auto;
+}
