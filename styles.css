@@ -29,6 +29,10 @@
     height: 5vh;
 }
 
+body {
+    background-image: url("../images/gravel.png");
+}
+
 a:link {
     color: #cccccc;
     text-decoration: none;
@@ -53,5 +57,10 @@ a:active {
     border-color: #cccccc;
 }
 
-
+.t_box {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 3vh;
+}
 
